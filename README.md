@@ -5,6 +5,6 @@ Programador iniciante em Python com pequenas experiências em C, C++ e C#.
 
 Cursando Bacharelado em Engenharia da Computação na UniMetrocamp Wyden - Campinas. Sempre em constante evolução e aprendizado nas demais áreas tecnológicas atuais.
 
-Possuo metas profissionais de se tornar um renomado programador, independente da linguagem da atual.
+Possuo metas profissionais de se tornar um renomado programador, independente da linguagem atual.
 
 Apaixonado por computação, animais e diversos games.
