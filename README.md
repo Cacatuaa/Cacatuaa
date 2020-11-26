@@ -1,4 +1,4 @@
-# Nícolas "Cacatua" Brisque 🦜
+# Nícolas Castellani Brisque 🦜
 [![Linkedin Badge](https://img.shields.io/badge/-Nícolas%20Castellani%20Brisque-008000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-castellani-brisque/)](https://www.linkedin.com/in/nicolas-castellani-brisque/)
 
 Programador com breves experiências em C, C++ e C#, Python, JavaScript.
